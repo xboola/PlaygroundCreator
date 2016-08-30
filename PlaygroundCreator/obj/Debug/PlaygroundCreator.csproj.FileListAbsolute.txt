@@ -1,0 +1,16 @@
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\PlaygroundCreator.exe.config
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\obj\Debug\PlaygroundCreator.csprojResolveAssemblyReference.cache
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\PlaygroundCreator.exe
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\PlaygroundCreator.pdb
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Autofac.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\BouncyCastle.CryptoExt.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Newtonsoft.Json.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Qlik.Engine.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Qlik.Engine.Extensions.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Qlik.Engine.Extensions.WinForms.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Qlik.Sense.Client.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Qlik.Sense.Communication.dll
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Autofac.xml
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\bin\Debug\Newtonsoft.Json.xml
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\obj\Debug\PlaygroundCreator.exe
+F:\Demos\_PlaygroudCreator\PlaygroundCreator\obj\Debug\PlaygroundCreator.pdb
